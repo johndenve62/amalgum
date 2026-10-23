@@ -1,0 +1,12 @@
+*.o
+*.a
+*.lo
+.libs/
+.deps/
+src/amalgumd
+src/amalgum-cli
+src/dogecoind
+src/dogecoin-cli
+wallet.dat
+*KEYS*
+backups/
